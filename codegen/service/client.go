@@ -3,8 +3,8 @@ package service
 import (
 	"path/filepath"
 
-	"goa.design/goa/codegen"
-	"goa.design/goa/expr"
+	"goa.design/goa/v3/codegen"
+	"goa.design/goa/v3/expr"
 )
 
 const (

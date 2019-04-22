@@ -5,8 +5,8 @@ import (
 	"path"
 	"strings"
 
-	"goa.design/goa/codegen"
-	"goa.design/goa/expr"
+	"goa.design/goa/v3/codegen"
+	"goa.design/goa/v3/expr"
 )
 
 // AuthFuncsFile returns a file that contains a dummy implementation of the

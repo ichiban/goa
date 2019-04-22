@@ -6,11 +6,11 @@ import (
 	"testing"
 	"time"
 
-	"goa.design/goa/codegen"
-	"goa.design/goa/codegen/service/testdata"
-	"goa.design/goa/dsl"
-	"goa.design/goa/eval"
-	"goa.design/goa/expr"
+	"goa.design/goa/v3/codegen"
+	"goa.design/goa/v3/codegen/service/testdata"
+	"goa.design/goa/v3/dsl"
+	"goa.design/goa/v3/eval"
+	"goa.design/goa/v3/expr"
 )
 
 type (

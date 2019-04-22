@@ -9,8 +9,8 @@ import (
 	"runtime"
 	"strings"
 
-	"goa.design/goa/codegen"
-	"goa.design/goa/pkg"
+	"goa.design/goa/v3/codegen"
+	"goa.design/goa/v3/pkg"
 )
 
 // Generator is the code generation management data structure.

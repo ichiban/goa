@@ -6,9 +6,9 @@ import (
 	"reflect"
 	"strings"
 
-	"goa.design/goa/codegen"
-	"goa.design/goa/codegen/service"
-	"goa.design/goa/expr"
+	"goa.design/goa/v3/codegen"
+	"goa.design/goa/v3/codegen/service"
+	"goa.design/goa/v3/expr"
 )
 
 // ServerFiles returns all the server HTTP transport files.

@@ -1,6 +1,6 @@
 package expr
 
-import "goa.design/goa/eval"
+import "goa.design/goa/v3/eval"
 
 type (
 	// GeneratedRoot records the generated result types and is a DSL root

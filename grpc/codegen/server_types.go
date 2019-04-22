@@ -4,8 +4,8 @@ import (
 	"path"
 	"path/filepath"
 
-	"goa.design/goa/codegen"
-	"goa.design/goa/expr"
+	"goa.design/goa/v3/codegen"
+	"goa.design/goa/v3/expr"
 )
 
 // ServerTypeFiles returns the types file for every gRPC service that contain

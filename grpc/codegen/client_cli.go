@@ -4,9 +4,9 @@ import (
 	"path"
 	"path/filepath"
 
-	"goa.design/goa/codegen"
-	"goa.design/goa/codegen/cli"
-	"goa.design/goa/expr"
+	"goa.design/goa/v3/codegen"
+	"goa.design/goa/v3/codegen/cli"
+	"goa.design/goa/v3/expr"
 )
 
 // ClientCLIFiles returns the CLI files to generate a command-line client that

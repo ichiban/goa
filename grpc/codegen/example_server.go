@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"goa.design/goa/codegen"
-	"goa.design/goa/codegen/example"
-	"goa.design/goa/expr"
+	"goa.design/goa/v3/codegen"
+	"goa.design/goa/v3/codegen/example"
+	"goa.design/goa/v3/expr"
 )
 
 // ExampleServerFiles returns an example gRPC server implementation.

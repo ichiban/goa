@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"sort"
 
-	"goa.design/goa/codegen"
-	"goa.design/goa/eval"
+	"goa.design/goa/v3/codegen"
+	"goa.design/goa/v3/eval"
 )
 
 // Generate runs the code generation algorithms.
